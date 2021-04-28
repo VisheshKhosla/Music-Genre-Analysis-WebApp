@@ -1,6 +1,0 @@
-[submodule "music-genre-flask"]
-	path = music-genre-flask
-	url = https://github.com/VisheshKhosla/music-genre-flask.git
-[submodule "music-genre-react"]
-	path = music-genre-react
-	url = https://github.com/VisheshKhosla/music-genre-react
