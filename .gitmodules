@@ -1,0 +1,3 @@
+[submodule "music-genre-flask"]
+	path = music-genre-flask
+	url = https://github.com/VisheshKhosla/music-genre-flask.git
